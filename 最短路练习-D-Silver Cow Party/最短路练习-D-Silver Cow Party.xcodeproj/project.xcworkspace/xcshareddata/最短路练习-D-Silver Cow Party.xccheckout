@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C43AB81-8E3F-4E82-BE30-DA1DFD22101E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>最短路练习-D-Silver Cow Party</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26E8406463CAC33A8545D10A984B2EE60A589A7A</key>
+		<string>https://github.com/RoyYuan/C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>最短路练习-D-Silver Cow Party/最短路练习-D-Silver Cow Party.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26E8406463CAC33A8545D10A984B2EE60A589A7A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RoyYuan/C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26E8406463CAC33A8545D10A984B2EE60A589A7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26E8406463CAC33A8545D10A984B2EE60A589A7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
