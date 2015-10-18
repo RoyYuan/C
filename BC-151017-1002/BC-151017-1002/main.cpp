@@ -27,7 +27,7 @@ int main(int argc, const char * argv[]) {
     while (T--) {
         scanf("%llu%llu",&N,&M);
         sum=0;
-        if (M%N!=0 || (N==1 && M!=1)) {
+        if (N==0 || M%N!=0 || (N==1 && M!=1) || N>M) {
             printf("-1\n");
             continue;
         }
