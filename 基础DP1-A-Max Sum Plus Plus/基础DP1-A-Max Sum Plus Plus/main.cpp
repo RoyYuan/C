@@ -22,12 +22,11 @@ int s[INF],dp[INF],pre[INF],temp;
 
 int main(int argc, const char * argv[]) {
     while (scanf("%lld%lld",&m,&n)!=EOF) {
-        memset(s, 0, sizeof(s));
-        memset(pre, 0, sizeof(pre));
-        memset(dp, 0, sizeof(dp));
         for (long long int i=1; i<=n; i++) {
             scanf("%d",&s[i]);
         }
+        memset(pre, 0, sizeof(pre));
+        dp[0]=0;
         for (long long int i=1; i<=m; i++) {
             temp=-MAX;
             for (long long int j=i; j<=n; j++) {
