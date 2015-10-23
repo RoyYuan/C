@@ -23,12 +23,10 @@ int s[INF],dp[INF],pre[INF],temp;
 
 int main(int argc, const char * argv[]) {
     while (scanf("%lld%lld",&m,&n)!=EOF) {
-        for (long long int i=1; i<=n; i++){
-            scanf("%d",&s[i]);
-        }
         dp[0]=0;
         temp=-MAX;
         for (long long int j=1; j<=n; j++) {
+            scanf("%d",&s[j]);
             dp[j]=max(dp[j-1]+s[j],s[j]);
             pre[j-1]=temp;
             temp=max(temp,dp[j]);
