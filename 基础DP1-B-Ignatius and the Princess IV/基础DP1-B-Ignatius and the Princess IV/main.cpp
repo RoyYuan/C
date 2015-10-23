@@ -13,29 +13,6 @@
 #include <algorithm>
 #include <string>
 
-//#define INF 1000000
-//
-//using namespace std;
-//
-//long long int N;
-//int num[INF];
-//
-//int comp(const void* a,const void* b)
-//{
-//    return *(int*)a-*(int*)b;
-//}
-//
-//int main(int argc, const char * argv[]) {
-//    while (scanf("%lld",&N)!=EOF) {
-//        for (long long int i=0; i<N; i++) {
-//            scanf("%d",&num[i]);
-//        }
-//        qsort(num, N, sizeof(int), comp);
-//        printf("%d\n",num[(N+1)/2]);
-//    }
-//    return 0;
-//}
-
 long long int N;
 int sum,num,out;
 
