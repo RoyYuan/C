@@ -41,7 +41,7 @@ void outputname(int num)
     
 }
 int main(int argc, const char * argv[]) {
-    int T,sub;
+    int T,sub,temp,bit;
     cin  >> T;
     while (T--) {
         cin >> N;
@@ -51,11 +51,11 @@ int main(int argc, const char * argv[]) {
         dp[0].cost=0;
         dp[0].pre=0;
         dp[0].substract=0;
-        int bit=1<<N;
+        bit=1<<N;
         for (int i=1; i<=bit-1; i++) {
             dp[i].substract=INF;
             for (int j=N; j>=1; j--) {
-                int temp=1<<(j-1);
+                temp=1<<(j-1);
                 if (i&temp) {
                     sub=dp[i-temp].cost+classes[j].c-classes[j].d;
                     if (sub<0) {
