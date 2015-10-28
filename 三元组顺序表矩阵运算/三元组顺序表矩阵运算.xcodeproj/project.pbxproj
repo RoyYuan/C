@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BEBE0ACF1B5E374C00849C4A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BEBE0ACE1B5E374C00849C4A /* main.cpp */; };
+		BECC05561BE06751008596E3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BECC05551BE06751008596E3 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		BEBE0AC91B5E374C00849C4A /* CopyFiles */ = {
+		BECC05501BE06751008596E3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		BEBE0ACB1B5E374C00849C4A /* testcpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testcpp; sourceTree = BUILT_PRODUCTS_DIR; };
-		BEBE0ACE1B5E374C00849C4A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BECC05521BE06751008596E3 /* 三元组顺序表矩阵运算 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "三元组顺序表矩阵运算"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BECC05551BE06751008596E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BEBE0AC81B5E374C00849C4A /* Frameworks */ = {
+		BECC054F1BE06751008596E3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BEBE0AC21B5E374C00849C4A = {
+		BECC05491BE06751008596E3 = {
 			isa = PBXGroup;
 			children = (
-				BEBE0ACD1B5E374C00849C4A /* testcpp */,
-				BEBE0ACC1B5E374C00849C4A /* Products */,
+				BECC05541BE06751008596E3 /* 三元组顺序表矩阵运算 */,
+				BECC05531BE06751008596E3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BEBE0ACC1B5E374C00849C4A /* Products */ = {
+		BECC05531BE06751008596E3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BEBE0ACB1B5E374C00849C4A /* testcpp */,
+				BECC05521BE06751008596E3 /* 三元组顺序表矩阵运算 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BEBE0ACD1B5E374C00849C4A /* testcpp */ = {
+		BECC05541BE06751008596E3 /* 三元组顺序表矩阵运算 */ = {
 			isa = PBXGroup;
 			children = (
-				BEBE0ACE1B5E374C00849C4A /* main.cpp */,
+				BECC05551BE06751008596E3 /* main.cpp */,
 			);
-			path = testcpp;
+			path = "三元组顺序表矩阵运算";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BEBE0ACA1B5E374C00849C4A /* testcpp */ = {
+		BECC05511BE06751008596E3 /* 三元组顺序表矩阵运算 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BEBE0AD21B5E374C00849C4A /* Build configuration list for PBXNativeTarget "testcpp" */;
+			buildConfigurationList = BECC05591BE06751008596E3 /* Build configuration list for PBXNativeTarget "三元组顺序表矩阵运算" */;
 			buildPhases = (
-				BEBE0AC71B5E374C00849C4A /* Sources */,
-				BEBE0AC81B5E374C00849C4A /* Frameworks */,
-				BEBE0AC91B5E374C00849C4A /* CopyFiles */,
+				BECC054E1BE06751008596E3 /* Sources */,
+				BECC054F1BE06751008596E3 /* Frameworks */,
+				BECC05501BE06751008596E3 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = testcpp;
-			productName = testcpp;
-			productReference = BEBE0ACB1B5E374C00849C4A /* testcpp */;
+			name = "三元组顺序表矩阵运算";
+			productName = "三元组顺序表矩阵运算";
+			productReference = BECC05521BE06751008596E3 /* 三元组顺序表矩阵运算 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BEBE0AC31B5E374C00849C4A /* Project object */ = {
+		BECC054A1BE06751008596E3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "袁子涵";
 				TargetAttributes = {
-					BEBE0ACA1B5E374C00849C4A = {
-						CreatedOnToolsVersion = 6.4;
+					BECC05511BE06751008596E3 = {
+						CreatedOnToolsVersion = 7.0.1;
 					};
 				};
 			};
-			buildConfigurationList = BEBE0AC61B5E374C00849C4A /* Build configuration list for PBXProject "testcpp" */;
+			buildConfigurationList = BECC054D1BE06751008596E3 /* Build configuration list for PBXProject "三元组顺序表矩阵运算" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = BEBE0AC21B5E374C00849C4A;
-			productRefGroup = BEBE0ACC1B5E374C00849C4A /* Products */;
+			mainGroup = BECC05491BE06751008596E3;
+			productRefGroup = BECC05531BE06751008596E3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BEBE0ACA1B5E374C00849C4A /* testcpp */,
+				BECC05511BE06751008596E3 /* 三元组顺序表矩阵运算 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BEBE0AC71B5E374C00849C4A /* Sources */ = {
+		BECC054E1BE06751008596E3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEBE0ACF1B5E374C00849C4A /* main.cpp in Sources */,
+				BECC05561BE06751008596E3 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		BEBE0AD01B5E374C00849C4A /* Debug */ = {
+		BECC05571BE06751008596E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -154,7 +154,6 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -168,7 +167,7 @@
 			};
 			name = Debug;
 		};
-		BEBE0AD11B5E374C00849C4A /* Release */ = {
+		BECC05581BE06751008596E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -203,14 +202,14 @@
 			};
 			name = Release;
 		};
-		BEBE0AD31B5E374C00849C4A /* Debug */ = {
+		BECC055A1BE06751008596E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		BEBE0AD41B5E374C00849C4A /* Release */ = {
+		BECC055B1BE06751008596E3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -220,25 +219,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BEBE0AC61B5E374C00849C4A /* Build configuration list for PBXProject "testcpp" */ = {
+		BECC054D1BE06751008596E3 /* Build configuration list for PBXProject "三元组顺序表矩阵运算" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BEBE0AD01B5E374C00849C4A /* Debug */,
-				BEBE0AD11B5E374C00849C4A /* Release */,
+				BECC05571BE06751008596E3 /* Debug */,
+				BECC05581BE06751008596E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BEBE0AD21B5E374C00849C4A /* Build configuration list for PBXNativeTarget "testcpp" */ = {
+		BECC05591BE06751008596E3 /* Build configuration list for PBXNativeTarget "三元组顺序表矩阵运算" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BEBE0AD31B5E374C00849C4A /* Debug */,
-				BEBE0AD41B5E374C00849C4A /* Release */,
+				BECC055A1BE06751008596E3 /* Debug */,
+				BECC055B1BE06751008596E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BEBE0AC31B5E374C00849C4A /* Project object */;
+	rootObject = BECC054A1BE06751008596E3 /* Project object */;
 }

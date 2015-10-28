@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BEBE0ACA1B5E374C00849C4A"
-               BuildableName = "testcpp"
-               BlueprintName = "testcpp"
-               ReferencedContainer = "container:testcpp.xcodeproj">
+               BlueprintIdentifier = "BE50683E1BDCD4160079C365"
+               BuildableName = "Codeforces-Round #327 div.2 2"
+               BlueprintName = "Codeforces-Round #327 div.2 2"
+               ReferencedContainer = "container:Codeforces-Round #327 div.2 2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BEBE0ACA1B5E374C00849C4A"
-            BuildableName = "testcpp"
-            BlueprintName = "testcpp"
-            ReferencedContainer = "container:testcpp.xcodeproj">
+            BlueprintIdentifier = "BE50683E1BDCD4160079C365"
+            BuildableName = "Codeforces-Round #327 div.2 2"
+            BlueprintName = "Codeforces-Round #327 div.2 2"
+            ReferencedContainer = "container:Codeforces-Round #327 div.2 2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BEBE0ACA1B5E374C00849C4A"
-            BuildableName = "testcpp"
-            BlueprintName = "testcpp"
-            ReferencedContainer = "container:testcpp.xcodeproj">
+            BlueprintIdentifier = "BE50683E1BDCD4160079C365"
+            BuildableName = "Codeforces-Round #327 div.2 2"
+            BlueprintName = "Codeforces-Round #327 div.2 2"
+            ReferencedContainer = "container:Codeforces-Round #327 div.2 2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BEBE0ACA1B5E374C00849C4A"
-            BuildableName = "testcpp"
-            BlueprintName = "testcpp"
-            ReferencedContainer = "container:testcpp.xcodeproj">
+            BlueprintIdentifier = "BE50683E1BDCD4160079C365"
+            BuildableName = "Codeforces-Round #327 div.2 2"
+            BlueprintName = "Codeforces-Round #327 div.2 2"
+            ReferencedContainer = "container:Codeforces-Round #327 div.2 2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
