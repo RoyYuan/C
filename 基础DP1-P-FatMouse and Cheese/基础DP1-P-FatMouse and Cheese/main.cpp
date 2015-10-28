@@ -53,7 +53,6 @@ int main(int argc, const char * argv[]) {
         }
         out=DP(1, 1, 0);
         printf("%lld\n",out);
-        
     }
     return 0;
 }
