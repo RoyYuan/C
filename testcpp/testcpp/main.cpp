@@ -7,20 +7,10 @@
 
 using namespace std;
 
+int a[10000][10000];
+
 int main()
 {
-    char str[100];
-    while(cin >> str)
-    {
-        int l=strlen(str);
-        for (int i=0; i<l; i++) {
-            if (str[i]=='z') {
-                str[i]=='a';
-            }
-            else
-                str[i]++;
-        }
-        cout << str << " ";
-    }
+    memset(a, 0, sizeof(a));
     return 0;
 }
